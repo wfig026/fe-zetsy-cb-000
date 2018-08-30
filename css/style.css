@@ -79,6 +79,7 @@ header a:hover {
 	padding: 1px;
   -webkit-transition: border .3s ease;
   transition: border .3s ease;
+  cursor: pointer;
 }
 
 #press img:hover {
