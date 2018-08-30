@@ -49,6 +49,8 @@ p  {
 header a {
 	color: rgb(152,173,166);
 	text-decoration: none;
+  -webkit-transition: color .3s ease;
+  transition: color .3s ease;
 }
 
 header a:hover {
